@@ -1,3 +1,6 @@
 hii 
 hello i am in stage branch
 aws devops 
+jennikins
+sonarqube
+nexus
